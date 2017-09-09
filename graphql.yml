@@ -1,0 +1,9 @@
+provider:
+  name: faas
+  gateway: https://faas.kenev.net
+
+functions:
+  graphql:
+    lang: node
+    handler: ./graphql
+    image: graphql
