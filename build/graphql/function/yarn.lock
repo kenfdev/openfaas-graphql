@@ -10,23 +10,11 @@
   version "8.0.28"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-8.0.28.tgz#86206716f8d9251cf41692e384264cbd7058ad60"
 
-apollo-server-core@^1.1.0:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/apollo-server-core/-/apollo-server-core-1.1.0.tgz#74c3bf4394e14eae7ab60b1d999a3c5b8aa94e9a"
-  dependencies:
-    apollo-tracing "^0.0.7"
-
-apollo-tracing@^0.0.7:
-  version "0.0.7"
-  resolved "https://registry.yarnpkg.com/apollo-tracing/-/apollo-tracing-0.0.7.tgz#78466cfefdb52a0802a57b488d26a1a67a25909f"
-  dependencies:
-    graphql-tools "^1.1.0"
-
 deprecated-decorator@^0.1.6:
   version "0.1.6"
   resolved "https://registry.yarnpkg.com/deprecated-decorator/-/deprecated-decorator-0.1.6.tgz#00966317b7a12fe92f3cc831f7583af329b86c37"
 
-graphql-tools@^1.1.0, graphql-tools@^1.2.2:
+graphql-tools@^1.2.2:
   version "1.2.2"
   resolved "https://registry.yarnpkg.com/graphql-tools/-/graphql-tools-1.2.2.tgz#ff791e91b78e05eec18a32716a7732bc7bf5cb4d"
   dependencies:
